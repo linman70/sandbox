@@ -1,0 +1,11 @@
+html {
+    font-size: 1.2rem;   
+    background-color: plum;
+}
+
+body {
+    background-color: lavenderblush;
+    padding: 20px;
+    width: 980px;
+    margin: 0 auto;
+}
